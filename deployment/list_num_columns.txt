@@ -1,0 +1,1 @@
+["age", "balance", "day", "duration", "campaign", "days_passed", "previous"]
